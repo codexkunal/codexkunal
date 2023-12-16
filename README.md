@@ -1,6 +1,6 @@
 
 # 💫 About Me:
- Hi 👋, I'm Sengar kunal
+ Hi 👋, I'm Sengar kunal singh
 
 
 # 💻 Tech Stack:
