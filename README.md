@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sengar kunal singh</h1>
-<h3 align="center">Love to code and debug it for live.</h3>
+<h3 align="center">Love to code and debug for life.</h3>
 
 
 # 💻 Tech Stack and Tools:
